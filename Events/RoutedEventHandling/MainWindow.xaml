@@ -16,6 +16,6 @@
         </StackPanel.Resources>
         <Button Name="Button1">Item 1</Button>
         <Button Name="Button2">Item 2</Button>
-        <TextBlock Name="results"/>
+        <TextBlock Name="results" TextWrapping="WrapWithOverflow"/>
     </StackPanel>
 </Window>
