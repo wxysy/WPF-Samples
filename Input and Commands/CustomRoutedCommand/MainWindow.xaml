@@ -21,9 +21,9 @@
                   Command="{x:Static local:MainWindow.ColorCmd}" />
             </MenuItem>
         </Menu>
-        <Border BorderBrush="Black" BorderThickness="1" Margin="10"
-            Height="165" Width="250" DockPanel.Dock="Top">
-            <TextBlock TextWrapping="Wrap" Margin="3">
+        <Border BorderBrush="Black" BorderThickness="1" Margin="171,10"
+            Height="199" Width="250" DockPanel.Dock="Top">
+            <TextBlock TextWrapping="Wrap" Margin="3,3,3,9">
         The Color Command chages the background color of a StackPanel.
         <LineBreak/>
         <LineBreak/>
